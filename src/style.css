@@ -1,0 +1,28 @@
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: Lato;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.demo_wrap {
+  position: relative;
+  overflow: hidden;
+   padding: 16px; 
+}
+
+.demo_wrap img {
+  position: relative; 
+  opacity: 0.6;
+}
+.card:hover {
+  color: green;
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+}
