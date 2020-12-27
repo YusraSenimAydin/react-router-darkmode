@@ -9,5 +9,5 @@ export const darkTheme = {
   theme: "dark",
   bgColor: "bg-dark",
   textColor: "text-light",
-  btnColor: "btn-dark"
+  btnColor: "btn-light "
 };
